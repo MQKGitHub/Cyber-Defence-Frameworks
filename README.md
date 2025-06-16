@@ -10,7 +10,7 @@ It is vital to understand the stages of an attack and the techniques an adversar
 
 | Topic Name                | Status         | Link                                                              |
 |---------------------------|----------------|-------------------------------------------------------------------|
-| Junior Security Analyst Intro | ✅ Completed   | [View Write-Up]() |
+| Junior Security Analyst Intro | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Junior-Security-Analyst-Intro/) |
 | Pyramid Of Pain               | 🟡 In Progress | [View Write-Up]()           |
 | Cyber Kill Chain              | ❌ Not Started | [View Write-Up]()          |
 | Unified Kill Chain            | ❌ Not Started | [View Write-Up]()        |
@@ -24,8 +24,8 @@ It is vital to understand the stages of an attack and the techniques an adversar
 ### 🧠 Overview
 
 ### 👨‍💻 Junior Security Analyst Intro  
-- coming soon...
-- coming soon...
+- Learned what a Junior Security Analyst does day to day, including alert triage, using security tools, and escalating incidents.  
+- Explored real SOC tasks like reviewing suspicious IPs, spotting attacker behaviour, and blocking threats.
 
 ### 🧱 Pyramid Of Pain  
 - coming soon...
