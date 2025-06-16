@@ -12,8 +12,8 @@ It is vital to understand the stages of an attack and the techniques an adversar
 |---------------------------|----------------|-------------------------------------------------------------------|
 | Junior Security Analyst Intro | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Junior-Security-Analyst-Intro/) |
 | Pyramid Of Pain               | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Pyramid-Of-Pain/)               |
-| Cyber Kill Chain              | 🟡 In Progress | [View Write-Up]()          |
-| Unified Kill Chain            | ❌ Not Started | [View Write-Up]()        |
+| Cyber Kill Chain              | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Cyber-Kill-Chain/)              |
+| Unified Kill Chain            | 🟡 In Progress | [View Write-Up]()        |
 | Diamond Model                 | ❌ Not Started | [View Write-Up]()             |
 | MITRE                         | ❌ Not Started | [View Write-Up]()                     |
 | Summit                        | ❌ Not Started | [View Write-Up]()                    |
@@ -32,8 +32,8 @@ It is vital to understand the stages of an attack and the techniques an adversar
 - Gained insight into why targeting behaviours and tools, rather than just IOCs, is a more effective strategy for defenders.
 
 ### 🔗 Cyber Kill Chain  
-- coming soon...
-- coming soon...
+- Learned how to break down a cyber attack into distinct stages using the Cyber Kill Chain model, from reconnaissance to actions on objectives.  
+- Explored how attackers operate at each step and how defenders can detect, delay, or stop them using real-world examples and hands-on labs.
 
 ### 🧬 Unified Kill Chain  
 - coming soon...
